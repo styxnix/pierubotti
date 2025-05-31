@@ -9,6 +9,11 @@
             "kanava": "Neekeri MSS",
             "ilmoituskanava_id": 1014160619546624001,
             "puhekanavat": [276324060835872769, 1013784169601585235, 1013784226543452170]
+        },
+        "1002245177026555995": {
+            "kanava": "Pippelikerho",
+            "ilmoituskanava_id": 1378339590930174022,
+            "puhekanavat": [1002245177026555999]
         }
     }
 }
